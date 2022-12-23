@@ -9,7 +9,7 @@
   "maxListeners": 15,
   "customUserDataDir": "./userDataDir/",
   "webhook": {
-    "url": "https://whatsyes.bubbleapps.io/version-test/api/1.1/wf/mensgaens recebidas/initialize",
+    "url": null,
     "autoDownload": true,
     "uploadS3": false,
     "readMessage": true,
