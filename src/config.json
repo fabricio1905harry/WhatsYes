@@ -1,6 +1,6 @@
 {
   "secretKey": "WHATSYESAPITOKEN",
-  "host": "http://localhost",
+  "host": "http://24.199.65.20",
   "port": "21465",
   "deviceName": "WhatsYes",
   "poweredBy": "WhatsYes-Server",
